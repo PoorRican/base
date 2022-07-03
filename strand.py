@@ -3,6 +3,7 @@
 import abc
 
 import numpy as np
+from numpy import ndarray
 
 from monomer import Monomer
 
