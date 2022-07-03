@@ -1,6 +1,8 @@
 # base
 
-Library for storing and manipulating nucleic acids and proteins
+Library for storing and rudimentary manipulation of nucleic acid and protein sequences built with Python3.
+
+It serves to be better than `biopython` as in it is aware of each monomer type.
 
 Stores nucleotides as uint8 (allows for 256 monomer types):
 
